@@ -6,6 +6,7 @@
 This project was created to make a proficient Password Generator
 
 I used HTML, CSS and Javascript to create the website page. 
+
 There is also a gitignore and a few images for the Application. 
 
 Creating the script.js file was the main challenge in this project, 
